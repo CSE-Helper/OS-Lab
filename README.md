@@ -1,5 +1,8 @@
 # OS-Lab
 
+
+## [Question PDF](https://github.com/CSE-Helper/OS-Lab/blob/main/OS_Lab_QB.pdf)
+## [Answer PDF](https://github.com/CSE-Helper/OS-Lab/blob/main/OS_Lab_Practical_Pograms.pdf)
 ## [qn 1 = C program to simulate the ‘ls’](https://github.com/CSE-Helper/OS-Lab/blob/main/Codes/ex1.c)
 ## [qn 2 = C program to simulate the ‘grep’](https://github.com/CSE-Helper/OS-Lab/blob/main/Codes/ex2.c)
 ## [qn 3 = C program to display the number of words in each file](https://github.com/CSE-Helper/OS-Lab/blob/main/Codes/ex3.c)
