@@ -3,7 +3,7 @@
 
 ## [Question PDF](https://github.com/CSE-Helper/oslab/blob/main/OS_Lab_QB.pdf)
 ## [Answer PDF](https://github.com/CSE-Helper/oslab/blob/main/OS_Lab_Practical_Pograms.pdf) (But You Can't Copy Paste)
-## [Answer Site] (https://github.com/CSE-Helper/oslab/blob/main/index.html) (Click here to go for Answer site)
+## [Answer Site](https://github.com/CSE-Helper/oslab/blob/main/index.html) (Click here to go for Answer site)
 ## [qn 1 = C program to simulate the ‘ls’](https://github.com/CSE-Helper/oslab/blob/main/Codes/ex1.c)
 ## [qn 2 = C program to simulate the ‘grep’](https://github.com/CSE-Helper/oslab/blob/main/Codes/ex2.c)
 ## [qn 3 = C program to display the number of words in each file](https://github.com/CSE-Helper/oslab/blob/main/Codes/ex3.c)
